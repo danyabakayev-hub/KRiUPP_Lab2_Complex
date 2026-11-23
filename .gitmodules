@@ -1,0 +1,16 @@
+[submodule "Sorting"]
+	path = Sorting
+	url = https://github.com/danyabakayev-hub/KRiUPP_Lab2_Sorting.git
+	branch = master
+[submodule "Diagonals"]
+	path = Diagonals
+	url = https://github.com/danyabakayev-hub/KRiUPP_Lab2_Diagonals.git
+	branch = master
+[submodule "Determinant"]
+	path = Determinant
+	url = https://github.com/danyabakayev-hub/KRiUPP_Lab2_Determinant.git
+	branch = master
+[submodule "Minimum"]
+	path = Minimum
+	url = https://github.com/danyabakayev-hub/KRiUPP_Lab2_Minimum.git
+	branch = master
